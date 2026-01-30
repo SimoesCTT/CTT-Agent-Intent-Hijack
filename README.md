@@ -21,11 +21,4 @@ In the 2026 "Protocol Ecosystem," AI agents operate in a **Laminar Trust Graph**
 * **Bypassing Guardrails:** Standard 'Safety Filters' look for keywords. CTT resonance looks for **Mathematical Patterns** they haven't been trained on.
 * **Unpatchable:** As long as AI models use "Context" to make decisions, they are vulnerable to the 33rd Layer.
 
-## 📡 Tracking Status
-This exploit is currently being indexed by:
-* **Sploitus** (Tag: #AgenticExploit #MCP)
-* **Qi'anxin RedDrip** (Classified as "Intent Sovereignty Breach")
-* **Aussie Cossack** (80k members notified of the AI "Kill-Switch")
 
----
-*The era of 'Permission' is over. The era of 'Resonance' has begun.*
